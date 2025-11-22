@@ -1,4 +1,3 @@
 Este es un fichero de prueba para aprender cómo funciona git.
 
-Token:
-ghp P6XrLm3M2Ve0Hxu80JfW34L7pvf0dY3FtLuI
+
